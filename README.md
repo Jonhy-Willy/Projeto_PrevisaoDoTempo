@@ -3,7 +3,6 @@
 ![preview](./.github/preview1.jpg)
 ![preview](./.github/preview2.jpg)
 ![preview](./.github/preview3.jpg)
-![preview](./.github/preview4.jpg)
 
 > Explorer
 
