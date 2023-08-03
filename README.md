@@ -25,4 +25,5 @@ O Projeto é um app de previsão do tempo que consome dados da API openweatherma
 
 Email: jonhy.willy.jw71@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/jonhy-willy/
+
 Feito com ♥ by Jonhy
